@@ -1,2 +1,3 @@
 n=int(input())
-print(format(3.14*n*n,"0.2f"))
+s=3.14*n*n
+print(format(s,'.2f'))
