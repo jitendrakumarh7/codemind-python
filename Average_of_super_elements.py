@@ -5,7 +5,7 @@ s=0
 c=0
 ct=0
 case=0
-for i in range(1,1000):
+for i in range(1,mx+1):
     c=0
     for j in l:
         if i==j:
